@@ -4,19 +4,19 @@
 
   Files with data represent two data sets with measurement results for two subject groups. 
   For both data sets there are several files described below:
-
-    /folder_with_script/run_analysis.R           -- the script
-    /folder_with_script/features.txt             -- all feature labels
-    /folder_with_script/activity_labels.txt      -- activity labels
+  ```
+  /folder_with_script/run_analysis.R           -- the script
+  /folder_with_script/features.txt             -- all feature labels
+  /folder_with_script/activity_labels.txt      -- activity labels
   
-    /folder_with_script/train/X_train.txt        -- training data set features
-    /folder_with_script/train/y_train.txt        -- training data set activity labels
-    /folder_with_script/train/subject_train.txt  -- training data set subject ids
+  /folder_with_script/train/X_train.txt        -- training data set features
+  /folder_with_script/train/y_train.txt        -- training data set activity labels
+  /folder_with_script/train/subject_train.txt  -- training data set subject ids
   
-    /folder_with_script/test/X_test.txt          -- test data set features
-    /folder_with_script/test/y_test.txt          -- test data set activity labels
-    /folder_with_script/test/subject_test.txt    -- test data set subject ids
-   
+  /folder_with_script/test/X_test.txt          -- test data set features
+  /folder_with_script/test/y_test.txt          -- test data set activity labels
+  /folder_with_script/test/subject_test.txt    -- test data set subject ids
+  ```
 
 2. Processing
 
@@ -56,7 +56,7 @@
      To make data more readable resulting data set called 'tinyDataSet' is ordered by ActivityName and SubjectId
 
 3. Tidy Data
-
+```
   ActivityName
     Activity name
       1 WALKING
@@ -71,6 +71,7 @@
       1..30
     
   time.BodyAccelerometer.mean.X
+  
     Body accelerometer value mean, X axis, time domain
     
   time.BodyAccelerometer.mean.Y
@@ -267,3 +268,4 @@
     
   frequency.BodyGyroscopeJerk.Magnitude.standard.deviation.
     Body gyroscope jerk magnitude standard deviation value, frequency domain
+```
