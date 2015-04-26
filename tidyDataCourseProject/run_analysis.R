@@ -1,5 +1,7 @@
 library(dplyr)
 
+# 0. Loading test and train data sets
+
 featureLabels <- read.csv("features.txt", sep = "", header = F)[, 2]
 
 # creating test data set
@@ -8,7 +10,7 @@ testActivities <- read.csv("test/y_test.txt", sep = "", header = F, col.names = 
 testSubjects <- read.csv("test/subject_test.txt", sep = "", header = F, col.names = "SubjectId", colClasses = "numeric")
 testFeatures <- cbind(testActivities, testSubjects, testFeatures)
 
-# creating train data set
+# creating training data set
 trainFeatures <- read.csv("train/X_train.txt", sep = "", header = F, col.names = featureLabels)
 trainActivities <- read.csv("train/y_train.txt", sep = "", header = F, col.names = "ActivityName", colClasses = "factor")
 trainSubjects <- read.csv("train/subject_train.txt", sep = "", header = F, col.names = "SubjectId", colClasses = "numeric")
@@ -24,7 +26,7 @@ columnsToExtract <- c("ActivityName", "SubjectId", make.names(grep(".*(mean|std)
 features <- features[, columnsToExtract]
 
 
-## 3. Set activity labels as factors so they have understandable names
+## 3. Set activity labels levels so they have understandable names
 activityLabels <- as.vector(read.csv("activity_labels.txt", sep = "", header = F)[, 2])
 levels(features$ActivityName) = activityLabels
 
