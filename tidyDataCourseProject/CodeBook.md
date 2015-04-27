@@ -71,201 +71,200 @@
       1..30
     
   time.BodyAccelerometer.mean.X
-  
-    Body accelerometer value mean, X axis, time domain
+    Average body accelerometer value mean, X axis, time domain
     
   time.BodyAccelerometer.mean.Y
-    Body accelerometer value mean, Y axis, time domain    
+    Average body accelerometer value mean, Y axis, time domain    
     
   time.BodyAccelerometer.mean.Z
-    Body accelerometer value mean, Z axis, time domain
+    Average body accelerometer value mean, Z axis, time domain
     
   time.BodyAccelerometer.standard.deviation.X
-    Body accelerometer value standard deviation, X axis, time domain
+    Average body accelerometer value standard deviation, X axis, time domain
     
   time.BodyAccelerometer.standard.deviation.Y
-    Body accelerometer value standard deviation, Y axis, time domain
+    Average body accelerometer value standard deviation, Y axis, time domain
     
   time.BodyAccelerometer.standard.deviation.Z
-    Body accelerometer value standard deviation, Z axis, time domain
+    Average body accelerometer value standard deviation, Z axis, time domain
     
   time.GravityAccelerometer.mean.X
-    Gravity accelerometer mean value, X axis, time domain
+    Average gravity accelerometer mean value, X axis, time domain
     
   time.GravityAccelerometer.mean.Y
-    Gravity accelerometer mean value, Y axis, time domain
+    Average gravity accelerometer mean value, Y axis, time domain
     
   time.GravityAccelerometer.mean.Z
-    Gravity accelerometer mean value, Z axis, time domain
+    Average gravity accelerometer mean value, Z axis, time domain
     
   time.GravityAccelerometer.standard.deviation.X
-    Gravity accelerometer standard deviation value, X axis, time domain
+    Average gravity accelerometer standard deviation value, X axis, time domain
     
   time.GravityAccelerometer.standard.deviation.Y
-    Gravity accelerometer standard deviation value, Y axis, time domain
+    Average gravity accelerometer standard deviation value, Y axis, time domain
     
   time.GravityAccelerometer.standard.deviation.Z
-    Gravity accelerometer standard deviation value, Z axis, time domain
+    Average gravity accelerometer standard deviation value, Z axis, time domain
     
   time.BodyAccelerometerJerk.mean.X
-    Body accelerometer mean value, X axis, time domain
+    Average body accelerometer mean value, X axis, time domain
     
   time.BodyAccelerometerJerk.mean.Y
-    Body accelerometer mean value, Y axis, time domain
+    Average body accelerometer mean value, Y axis, time domain
     
   time.BodyAccelerometerJerk.mean.Z
-    Body accelerometer mean value, Z axis, time domain
+    Average body accelerometer mean value, Z axis, time domain
     
   time.BodyAccelerometerJerk.standard.deviation.X
-    Body accelerometer standard deviation value, X axis, time domain
+    Average body accelerometer standard deviation value, X axis, time domain
     
   time.BodyAccelerometerJerk.standard.deviation.Y
-    Body accelerometer standard deviation value, Y axis, time domain
+    Average body accelerometer standard deviation value, Y axis, time domain
     
   time.BodyAccelerometerJerk.standard.deviation.Z
-    Body accelerometer standard deviation value, Z axis, time domain
+    Average body accelerometer standard deviation value, Z axis, time domain
     
   time.BodyGyroscope.mean.X
-    Body gyroscope mean value, X axis, time domain
+    Average body gyroscope mean value, X axis, time domain
     
   time.BodyGyroscope.mean.Y
-    Body gyroscope mean value, Y axis, time domain
+    Average body gyroscope mean value, Y axis, time domain
     
   time.BodyGyroscope.mean.Z
-    Body gyroscope mean value, Z axis, time domain
+    Average body gyroscope mean value, Z axis, time domain
     
   time.BodyGyroscope.standard.deviation.X
-    Body gyroscope standard deviation, X axis, time domain
+    Average body gyroscope standard deviation, X axis, time domain
     
   time.BodyGyroscope.standard.deviation.Y
-    Body gyroscope standard deviation, Y axis, time domain
+    Average body gyroscope standard deviation, Y axis, time domain
     
   time.BodyGyroscope.standard.deviation.Z
-    Body gyroscope standard deviation, Z axis, time domain
+    Average body gyroscope standard deviation, Z axis, time domain
     
   time.BodyGyroscopeJerk.mean.X
-    Body gyroscope jerk mean value, X axis, time domain
+    Average body gyroscope jerk mean value, X axis, time domain
     
   time.BodyGyroscopeJerk.mean.Y
-    Body gyroscope jerk mean value, Y axis, time domain
+    Average body gyroscope jerk mean value, Y axis, time domain
     
   time.BodyGyroscopeJerk.mean.Z
-    Body gyroscope jerk mean value, Z axis, time domain
+    Average body gyroscope jerk mean value, Z axis, time domain
     
   time.BodyGyroscopeJerk.standard.deviation.X
-    Body gyroscope jerk standard deviation, X axis, jerk time domain
+    Average body gyroscope jerk standard deviation, X axis, jerk time domain
     
   time.BodyGyroscopeJerk.standard.deviation.Y
-    Body gyroscope jerk standard deviation, Y axis, time domain
+    Average body gyroscope jerk standard deviation, Y axis, time domain
     
   time.BodyGyroscopeJerk.standard.deviation.Z
-    Body gyroscope jerk standard deviation, Z axis, time domain
+    Average body gyroscope jerk standard deviation, Z axis, time domain
     
   time.BodyAccelerometer.Magnitude.mean.
-    Body accelerometer magnitude value, time domain
+    Average body accelerometer magnitude value, time domain
     
   time.BodyAccelerometer.Magnitude.standard.deviation.
-    Body accelerometer magnitude standard deviation value, time domain
+    Average body accelerometer magnitude standard deviation value, time domain
     
   time.GravityAccelerometer.Magnitude.mean.
-    Gravity accelerometer magnitude mean value, time domain
+    Average gravity accelerometer magnitude mean value, time domain
     
   time.GravityAccelerometer.Magnitude.standard.deviation.
-    Gravity accelerometer mean magnitude standard deviation value, time domain
+    Average gravity accelerometer mean magnitude standard deviation value, time domain
     
   time.BodyAccelerometerJerk.Magnitude.mean.
-    Gravity accelerometer jerk magnitude mean value, time domain
+    Average gravity accelerometer jerk magnitude mean value, time domain
     
   time.BodyAccelerometerJerk.Magnitude.standard.deviation.
-    Gravity accelerometer jerk magnitude standard deviation value, time domain
+    Average gravity accelerometer jerk magnitude standard deviation value, time domain
     
   time.BodyGyroscope.Magnitude.mean.
-    Body gyroscope magnitude mean value, time domain
+    Average body gyroscope magnitude mean value, time domain
     
   time.BodyGyroscope.Magnitude.standard.deviation.
-    Body gyroscope magnitude standard deviation, time domain
+    Average body gyroscope magnitude standard deviation, time domain
     
   time.BodyGyroscopeJerk.Magnitude.mean.
-    Body gyroscope jerk mean value, time domain
+    Average body gyroscope jerk mean value, time domain
     
   time.BodyGyroscopeJerk.Magnitude.standard.deviation.
-    Body gyroscope jerk magnitude standard deviation value, time domain
+    Average body gyroscope jerk magnitude standard deviation value, time domain
     
   frequency.BodyAccelerometer.mean.X
-    Body accelerometer mean value, X axis, frequency domain
+    Average body accelerometer mean value, X axis, frequency domain
     
   frequency.BodyAccelerometer.mean.Y
-    Body accelerometer mean value, Y axis, frequency domain
+    Average body accelerometer mean value, Y axis, frequency domain
     
   frequency.BodyAccelerometer.mean.Z
-    Body accelerometer mean value, Z axis, frequency domain
+    Average body accelerometer mean value, Z axis, frequency domain
     
   frequency.BodyAccelerometer.standard.deviation.X
-    Body accelerometer standard deviation value, X axis, frequency domain
+    Average body accelerometer standard deviation value, X axis, frequency domain
     
   frequency.BodyAccelerometer.standard.deviation.Y
-    Body accelerometer standard deviation value, Y axis, frequency domain
+    Average body accelerometer standard deviation value, Y axis, frequency domain
     
   frequency.BodyAccelerometer.standard.deviation.Z
-    Body accelerometer standard deviation, value, Z axis, frequency domain
+    Average body accelerometer standard deviation, value, Z axis, frequency domain
     
   frequency.BodyAccelerometerJerk.mean.X
-    Body accelerometer jerk mean value, X axis, frequency domain
+    Average body accelerometer jerk mean value, X axis, frequency domain
     
   frequency.BodyAccelerometerJerk.mean.Y
-    Body accelerometer jerk mean value, Y axis, frequency domain
+    Average body accelerometer jerk mean value, Y axis, frequency domain
     
   frequency.BodyAccelerometerJerk.mean.Z
-    Body accelerometer jerk mean value, Z axis, frequency domain
+    Average body accelerometer jerk mean value, Z axis, frequency domain
     
   frequency.BodyAccelerometerJerk.standard.deviation.X
-    Body accelerometer jerk standard deviation value, X axis, frequency domain
+    Average body accelerometer jerk standard deviation value, X axis, frequency domain
     
   frequency.BodyAccelerometerJerk.standard.deviation.Y
-    Body accelerometer jerk standard deviation value, Y axis, frequency domain
+    Average body accelerometer jerk standard deviation value, Y axis, frequency domain
     
   frequency.BodyAccelerometerJerk.standard.deviation.Z
-    Body accelerometer jerk standard deviation value, Z axis, frequency domain
+    Average body accelerometer jerk standard deviation value, Z axis, frequency domain
     
   frequency.BodyGyroscope.mean.X
-    Body gyroscope mean value, X axis, frequency domain
+    Average body gyroscope mean value, X axis, frequency domain
     
   frequency.BodyGyroscope.mean.Y
-    Body gyroscope mean value, Y axis, frequency domain
+    Average body gyroscope mean value, Y axis, frequency domain
     
   frequency.BodyGyroscope.mean.Z
-    Body gyroscope mean value, Z axis, frequency domain
+    Average body gyroscope mean value, Z axis, frequency domain
     
   frequency.BodyGyroscope.standard.deviation.X
-    Body gyroscope standard deviation value, X axis, frequency domain
+    Average body gyroscope standard deviation value, X axis, frequency domain
     
   frequency.BodyGyroscope.standard.deviation.Y
-    Body gyroscope standard deviation value, Y axis, frequency domain
+    Average body gyroscope standard deviation value, Y axis, frequency domain
     
   frequency.BodyGyroscope.standard.deviation.Z
-    Body gyroscope standard deviation value, Z axis, frequency domain
+    Average body gyroscope standard deviation value, Z axis, frequency domain
     
   frequency.BodyAccelerometer.Magnitude.mean.
-    Body accelerometer magnitude mean value, frequency domain
+    Average body accelerometer magnitude mean value, frequency domain
     
   frequency.BodyAccelerometer.Magnitude.standard.deviation.
-    Body accelerometer magnitude standard deviation value, frequency domain
+    Average body accelerometer magnitude standard deviation value, frequency domain
     
   frequency.BodyAccelerometerJerk.Magnitude.mean.
-    Body accelerometer jerk magnitude mean value, frequency domain
+    Average body accelerometer jerk magnitude mean value, frequency domain
     
   frequency.BodyAccelerometerJerk.Magnitude.standard.deviation.
-    Body accelerometer jerk magnitude standard deviation value, frequency domain
+    Average body accelerometer jerk magnitude standard deviation value, frequency domain
     
   frequency.BodyGyroscope.Magnitude.mean.
-    Body gyroscope magnitude mean value, frequency domain
+    Average body gyroscope magnitude mean value, frequency domain
     
   frequency.BodyGyroscope.Magnitude.standard.deviation.
-    Body gyroscope magnitude standard deviation value, frequency domain
+    Average body gyroscope magnitude standard deviation value, frequency domain
     
   frequency.BodyGyroscopeJerk.Magnitude.mean.
-    Body gyroscope jerk magnitude mean value, frequency domain
+    Average body gyroscope jerk magnitude mean value, frequency domain
     
   frequency.BodyGyroscopeJerk.Magnitude.standard.deviation.
-    Body gyroscope jerk magnitude standard deviation value, frequency domain
+    Average body gyroscope jerk magnitude standard deviation value, frequency domain
 ```
